@@ -64,19 +64,22 @@ export default function Portfolio() {
         <h2 className="text-2xl font-semibold mb-6">Projects</h2>
 
         <div className="mb-6">
-          <h3 className="text-xl font-bold">HustleHub</h3>
+          <h3 className="text-xl font-bold">
+            <div  className="text-decoration-line"><a href = 'https://hustlehub-indol.vercel.app/'>HustleHub</a></div></h3>
           <p>A job-application tracker with add/edit features and API integration.</p>
-          <p className="text-sm text-gray-600">Tech: React, Tailwind, Node.js, Express, MongoDB</p>
+          <p className="text-sm text-gray-600">Tech: React, Tailwind</p>
         </div>
 
         <div className="mb-6">
-          <h3 className="text-xl font-bold">Football Boots Platform</h3>
+          <h3 className="text-xl font-bold">
+            <a href="https://boots-hub-chrisngilis-projects.vercel.app/">BootsHub</a></h3>
           <p>Marketplace and donation site for pre-loved football boots.</p>
-          <p className="text-sm text-gray-600">Tech: React, Firebase, Stripe, Tailwind</p>
+          <p className="text-sm text-gray-600">Tech: Javascript, HTML, Bootstrap css</p>
         </div>
 
         <div className="mb-6">
-          <h3 className="text-xl font-bold">Expense Tracker</h3>
+          <h3 className="text-xl font-bold" >
+            <a href="https://expense-tracker-topaz-ten.vercel.app//">Expense Tracker</a></h3>
           <p>Vite-based React app with CRUD and searchable table.</p>
           <p className="text-sm text-gray-600">Tech: React, Vite, Tailwind</p>
         </div>
@@ -119,9 +122,11 @@ export default function Portfolio() {
 
       <section className=" text-white p-10">
         <h2 className="text-2xl font-semibold mb-6">Contact Me</h2>
-        <p>Email: christopher.ngili@gmail.com</p>
-        <p>LinkedIn: linkedin.com/in/chrisngili</p>
-        <p>GitHub: github.com/chrisngili</p>
+        <p>Email: ngilichristopher@gmail.com</p>
+        {/* <p>LinkedIn: linkedin.com/in/chrisngili</p> */}
+        <p>
+          <a href="https://github.com/chrisNgili">Github(Press me)</a>
+        </p>
       </section>
 
       <footer className="text-center text-sm text-gray-500 py-4 bg-gray-100">
