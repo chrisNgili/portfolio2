@@ -2,9 +2,9 @@ import React from "react";
 
 export default function Portfolio() {
   return (
-    <div className="font-sans text-grey-800 bg-gradient-to-r from-teal-600 to-amber-500 py-12 px-4 sm:px-6 rounded-l shadow-lg">
+    <div className="font-sans text-grey-800 bg-gradient-to-r from-sky-600 to-emerald-500 py-12 px-4 sm:px-6 rounded-l shadow-lg">
       <section className=" text-black p-10 text-center">
-        <h1 className="text-4xl font-bold">Christopher Ngili</h1>
+        <h1 className="text-4xl font-bold ">Christopher Ngili</h1>
         <p className="mt-2 text-xl">Full-Stack Developer & Designer</p>
         <p className="mt-4">Building intuitive web experiences with React & Tailwind CSS</p>
         {/* <button className="mt-6 bg-blue-500 hover:bg-blue-600 text-white px-6 py-2 rounded-full">
