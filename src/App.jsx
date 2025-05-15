@@ -61,11 +61,11 @@ export default function Portfolio() {
       </section>
 
       <section className="p-10">
-        <h2 className="text-2xl font-semibold mb-6">Projects</h2>
+        <h2 className="text-2xl font-semibold mb-6 ">Projects</h2>
 
         <div className="mb-6">
           <h3 className="text-xl font-bold">
-            <div  className="text-decoration-line"><a href = 'https://hustlehub-indol.vercel.app/'>HustleHub</a></div></h3>
+            <a href = 'https://hustlehub-indol.vercel.app/'>HustleHub</a></h3>
           <p>A job-application tracker with add/edit features and API integration.</p>
           <p className="text-sm text-gray-600">Tech: React, Tailwind</p>
         </div>
