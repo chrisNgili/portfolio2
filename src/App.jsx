@@ -20,7 +20,7 @@ export default function Portfolio() {
             I’m Christopher, an 18-year-old Nairobi-based developer passionate about crafting
             clean, responsive web applications. Currently diving deep into React, Vite, and Tailwind
             CSS, I love solving real-world problems—most recently creating a football boots donation
-            platform. Outside of code, I’m an avid chess player, F1 fan, and pianist.
+            platform. Outside of code, I’m an avid chess player, F1 fan, footballer and pianist(more or less).
           </p>
         </div>
       </section>
