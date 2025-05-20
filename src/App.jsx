@@ -7,9 +7,7 @@ export default function Portfolio() {
         <h1 className="text-4xl font-bold ">Christopher Ngili</h1>
         <p className="mt-2 text-xl">Full-Stack Developer & Designer</p>
         <p className="mt-4">Building intuitive web experiences with React & Tailwind CSS </p>
-        {/* <button className="mt-6 bg-blue-500 hover:bg-blue-600 text-white px-6 py-2 rounded-full">
-          View My Work
-        </button> */}
+
       </section>
 
       <section className="p-10 max-w-4xl mx-auto">
