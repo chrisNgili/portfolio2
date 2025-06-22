@@ -42,8 +42,8 @@ export default function Portfolio() {
               <li>JSON Server</li>
               <li>Flask</li>
               {/* <li>Express</li>
-              <li>MongoDB</li>
-              <li>REST APIs</li> */}
+              <li>MongoDB</li> */}
+              <li>REST APIs</li> 
             </ul>
           </div>
           <div>
