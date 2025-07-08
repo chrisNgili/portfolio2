@@ -70,7 +70,7 @@ export default function Portfolio() {
 
         <div className="mb-6">
           <h3 className="text-xl font-bold">
-            <a href = 'https://hustlehub-indol.vercel.app/'>ChronoBite</a></h3>
+            <a href = 'https://restaurant-reservation-system-ecru.vercel.app/'>ChronoBite</a></h3>
           <p>A restaurant reservation  platfom designed to facilitate the process of making and managing reservations for customers and restaurants.</p>
           <p className="text-sm text-gray-600">Tech: React, React Router, Tailwind, Flask, SQLAlachemy, 
             Flask-JWT-Extended, PostgreSQL</p>
