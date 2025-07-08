@@ -70,6 +70,14 @@ export default function Portfolio() {
 
         <div className="mb-6">
           <h3 className="text-xl font-bold">
+            <a href = 'https://hustlehub-indol.vercel.app/'>ChronoBite</a></h3>
+          <p>A restaurant reservation  platfom designed to facilitate the process of making and managing reservations for customers and restaurants.</p>
+          <p className="text-sm text-gray-600">Tech: React, React Router, Tailwind, Flask, SQLAlachemy, 
+            Flask-JWT-Extended, PostgreSQL</p>
+        </div>
+
+        <div className="mb-6">
+          <h3 className="text-xl font-bold">
             <a href="https://boots-hub-chrisngilis-projects.vercel.app/">BootsHub</a></h3>
           <p>Marketplace and donation site for pre-loved football boots.</p>
           <p className="text-sm text-gray-600">Tech: Javascript, HTML, Bootstrap css</p>
@@ -87,7 +95,9 @@ export default function Portfolio() {
         <h2 className="text-2xl font-semibold mb-6">Experience & Education</h2>
         <div className="mb-4">
           <h3 className="font-bold">Education</h3>
-          <p>High School Diploma-Strathmore: 2021 - 2024</p>
+          <p>High School Diploma - Strathmore: 2021 - 2024</p>
+          <p>Software Development - Moringa School: 2025 (January - August)</p>
+          <p>Electrical & Electronincs Engineering Degree - Strathmore University: 2025 - 2030</p>
         </div>
         {/* <div className="mb-4">
           <h3 className="font-bold">Frontend Intern</h3>
